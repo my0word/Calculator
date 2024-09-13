@@ -1,0 +1,2 @@
+E:\МДК\Мдк 03.01\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\МДК\Мдк 03.01\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache

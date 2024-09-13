@@ -29,6 +29,15 @@ class Program
                     b = InputNumber("Введите значение B: ");
                     break;
                 case 3:
+                    Console.WriteLine($"A + B = {a + b}");
+                    break;
+                case 4:
+                    Console.WriteLine($"A - B = {a - b}");
+                    break;
+                case 5:
+                    Console.WriteLine($"A * B = {a * b}");
+                    break;
+                case 6:
                     if (b == 0)
                     {
                         Console.WriteLine("Ошибка: деление на ноль");
@@ -38,7 +47,7 @@ class Program
                         Console.WriteLine($"A / B = {a / b}");
                     }
                     break;
-                case 4:
+                case 7:
                     running = false;
                     break;
                 default:
